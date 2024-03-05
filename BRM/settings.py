@@ -27,7 +27,7 @@ SECRET_KEY = 'm1xs@i778*h30-b0nscc&r##@l_hr-))t218mh4$nnql$ori(l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
